@@ -1,0 +1,9 @@
+{
+  "name": "Справочник секций",
+  "short_name": "Секции",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#1f2937",
+  "icons": []
+}
