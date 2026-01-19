@@ -217,6 +217,6 @@
   { "section": "ХТ637", "apparatus": "АВОА 400.4.12,5о-ВА" },
   { "section": "ХТ654", "apparatus": "МО210.30.6п-ПА" },
   { "section": "ХТ655", "apparatus": "ОСМ30.4.6,3МА" },
-  { "section": "ХТ657", "apparatus": "ТОА-28А" }
-  { "section": "ХТ667", "apparatus": "ОМТ200.28.9,1" }
+  { "section": "ХТ657", "apparatus": "ТОА-28А" },
+  { "section": "ХТ667", "apparatus": "ОМТ200.28.9,1" },
 ]
