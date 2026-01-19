@@ -176,6 +176,7 @@
   { "section": "ХТ497", "apparatus": "ОМТ 200.7.7" },
   { "section": "ХТ512", "apparatus": "АВОМ 400.4.6к-ПМ2-01" },
   { "section": "ХТ513", "apparatus": "МО 400.5.6п-ПА" },
+  { "section": "ХТ518Ф (Давл. 1,6)", "apparatus": "МО400.13.6п-ПАД" },
   { "section": "ХТ524", "apparatus": "МО 310.8.6" },
   { "section": "ХТ525", "apparatus": "МО 120.1" },
   { "section": "ХТ526", "apparatus": "ОМТ 200.9.8" },
