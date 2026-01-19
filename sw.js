@@ -9,9 +9,9 @@ self.addEventListener('install', e => {
         './data.json',
         './icons/icon-192.png',
         './icons/icon-512.png'
-      ])
-    )
-  );
+      ])  // <-- Закрываем addAll
+    )     // <-- Закрываем then
+  );      // <-- Закрываем waitUntil
 });
 
 self.addEventListener('fetch', e => {
